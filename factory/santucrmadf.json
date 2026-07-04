@@ -1,0 +1,15 @@
+{
+	"name": "santucrmadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fe0a0955-3d51-4a68-b9ee-c6e6c624ebc5",
+		"tenantId": "b83cfc45-bc88-477d-a28a-06254fdf7832"
+	}
+}
